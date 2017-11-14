@@ -1,0 +1,12 @@
+
+# 8. Certificados
+
+Intentamos enviar en un plazo no superior a 2 meses desde que finalizó el curso envíar por correo postal los certificados, pero hay que tener en cuenta que lleva un tiempo no sólo la impresión y firma sino sobre todo el ensobrado, y no vamos ***sobrados*** de recursos humanos, actualmente agradecemos la colaboración del CAREI, luego muchas veces el plazo de 2 meses no podemos respetarlo.
+
+* La dirección de envío:  será aquella que indicaron en la inscripción. En caso de omisión se enviará al centro de trabajo que indicaron en la inscripción.
+
+**Puedes indicar esto como mensaje final a los alumnos que han acabado y superado tu curso**.
+
+**Tu certificado de tutorización oficial** se enviará a la dirección postal que indiques en la nominilla.
+
+![](img/descarga.jpg)
