@@ -21,4 +21,4 @@
         * La nominilla correctamente rellenada y firmada. (cualquier duda a [direccion@catedu.es](mailto:direccion@catedu.es))
             * **[Descarga de la nominilla](https://drive.google.com/file/d/0B8DUIrelUGyeeDI1Y2dNdmQ2SkU/view?usp=sharing) dar a descargar, no previsualizar, ver imagen:**
 
-![](img/2016-10-06_14_19_50-nomina_tutorias_convocatoria.xlsx_-_Google_Drive.png)
+![](/assets/2018-01-19 18_42_59-nomina_tutorias_convocatoria.xlsx - Google Drive.png)
