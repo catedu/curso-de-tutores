@@ -9,6 +9,16 @@
 
 * **Foros propios del curso**: El tutor puede abrir foros en su curso incluso a nivel de módulo
 
+#¿Cómo puedo abrir un foro?
+
+Tenemos que activar la **edición del curso**:
+
+![](/assets/activar-edicion.png)
+
+Y luego añadir el foro en **añadir actividad**
+
+![](/assets/agregar-actividad.png)
+
 ## Suscripción de la mensajería.
 
 Si deseáis que vuestros Mensajes a los alumnos, así como vuestras aportaciones en los Foros de Moodle lleguen también como email a los alumnos que estén suscritos al Foro, deberéis editar vuestro perfil (Administración -> ajustes de mi perfil -> editar perfil) y poner vuestro email.
