@@ -4,6 +4,7 @@ Comenzamos nuestra labor de tutores. Trataremos pues de acompañar a nuestros al
 
 Por otro lado, Moodle nos ofrece herramientas para la comunicación constante y directa con cada alumno. Esto nos permite un trato muy personalizado. Los alumnos se relacionan entre sí y con el tutor, de forma privada o en grupo. El tutor llega a aprender en muchas ocasiones más de lo que había venido a enseñar.
 
+
 ![](img/teacher-149024.png)
 
 Imagen 1: [OpenClipartVectors](https://pixabay.com/es/profesor-la-escuela-matem%C3%A1ticas-149024/). CCO Public Domain
