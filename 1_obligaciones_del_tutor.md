@@ -8,4 +8,4 @@ Y sin más dilación, resumimos sucintamente las tareas que debes llevar a cabo 
 
 Esperamos que esta infografía te ayude a adivinar **¿cual es el mejor tutor?**
 
-![](/assets/tipo-tutores.png)
+![](/assets/buentutor.png)
