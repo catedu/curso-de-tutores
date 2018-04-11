@@ -6,8 +6,8 @@ Y sin más dilación, resumimos sucintamente las tareas que debes llevar a cabo 
 1. **Evaluar las entregas APTO o NO APTO**,  y comentar las entregas correctamente.
 1. Colaborar en el perfeccionamiento del curso. Cuanto mejor realizado está un curso, más ligera es su tutoría. Si lo necesitas, [pide ayuda](http://soporte.catedu.es/) para editar el curso.
 
-![](img/clerk-18915_1280.jpg)
+Esperamos que esta infografía te ayude a que entiendas lo que esperamos de ti: **¿cual es el mejor tutor?**
 
-Imagen 2. [**PublicDomainPictures**](https://pixabay.com/es/empleado-negocio-empresaria-ocupada-18915/). CCO Public 
+![](/assets/tipos-de-tutores.png)
 
 
