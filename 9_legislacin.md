@@ -5,10 +5,11 @@
 
 ### Retribución de tutorización
 
-* Pago tutorización [Resolución 16/12/16](2017-1-1-Resolucion_pagos_ponentes.pdf) (pdf - 1.42 MB).
+* Pago tutorización [Resolución 1/1/17](https://drive.google.com/open?id=0B8DUIrelUGyeRmxQQUdsYzMtdWM) (pdf - 1.42 MB).
 
     * €/alumno = 0.7*Num_horas_curso
     * Maximo 2.400€ 
+    * Sólo cuentan alumnos reales = que hayan aprobado un módulo
 
 * Retención IRPF pág 16 del [Reforma reglamento IRPF 2015](http://www.agenciatributaria.es/static_files/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Informacion_institucional/Campanias/IRPF_permanente/Novedades_2015/Reforma_Reglamento_IRPF_RD_633_2015.pdf)
 
