@@ -20,7 +20,7 @@ En este curso se da una breve introducción sobre la labor del Tutor en Aularag�
    9. Legislación
    10. Tu evaluación y la nuestra
    
-   <iframe src="https://giphy.com/embed/j5IdWWOAYzcli" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/beat-beats-j5IdWWOAYzcli">via GIPHY</a></p>
+   ![](/assets/2018-06-21.png)
 
 
 
