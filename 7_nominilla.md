@@ -15,10 +15,9 @@
     * **Se calcula en función del número de alumnos reales.**
     * El tutor tiene que enviar POR CORREO POSTAL al director del CATEDU:
         * Javier Quintana Peiró - CATEDU. Oficina Delegada de la DGA Calamocha. C/Melchor de Luzón 6-2. 44200 Calamocha (Teruel)
-
-        * **La hoja de cálculo impresa** y firmada de alumnos APTOS, NO APTOS Y NO INICIAN (acta evaluación)
-        
+        * **La hoja de cálculo impresa** y firmada de alumnos APTOS, NO APTOS Y NO INICIAN (acta evaluación)        
         * La nominilla correctamente rellenada y firmada. (cualquier duda a [direccion@catedu.es](mailto:direccion@catedu.es))
+        * _Los dos documentos sin grapar_.
             * **[Descarga de la nominilla](https://drive.google.com/file/d/0B8DUIrelUGyeeDI1Y2dNdmQ2SkU/view?usp=sharing) dar a descargar, no previsualizar, ver imagen:**
 
 ![](/assets/2018-01-19 18_42_59-nomina_tutorias_convocatoria.xlsx - Google Drive.png)
