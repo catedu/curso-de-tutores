@@ -1,0 +1,31 @@
+{
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"],
+    "language": "es",
+    "variables": {
+        "title": "Curso de Tutores Noveles de Aularagón",
+        "authors": [
+            "Javier Quintana Peiró",
+            "Equipo de CATEDU"
+        ],
+        "collaborators": [
+            { "name": "_________", "edited": "_____________" }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "edit-link": {
+            "base": "https://github.com/catedu/curso-de-tutores/edit/master",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "curso-de-tutores"
+        }
+    }
+}

@@ -6,4 +6,4 @@ Poniendo la estética al servicio de la facilidad de uso hemos rediseñado AulAr
 
 A continuación te damos un breve tour para que no te pierdas por nuestra plataforma. ¡Vamos allá!
 
-![](img/Aularagon.jpg)
+![logo Aularagón](img/Aularagon.jpg)

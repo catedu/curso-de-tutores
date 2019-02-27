@@ -43,8 +43,8 @@ Utiliza un modo dialogado, cordial (no utilices Ud.), respetuoso pero cercano. T
 
 No olvides valorar los esfuerzos realizados y los logros por evidentes que sean. El alumno a distancia no tiene conciencia de su nivel con respecto a sus compañeros. Sólo tiene la referencia de lo que dice su tutor. Hay que proyectar una imagen positiva al alumno.
 
-![](img/writer-107391_640.png)
+[![Imagen 2. drdevience CCO Public Domain](img/writer-107391_640.png)](https://pixabay.com/es/escritor-por-escrito-autor-libro-107391/)
 
-Imagen 2. [drdevience](https://pixabay.com/es/escritor-por-escrito-autor-libro-107391/). CCO Public Domain 
+ 
 
-[^1] por eso en el diseño de los contenidos, se intenta que el primer módulo tenga una dificultad baja, los módulos centrales tengan el peso principal, y el último módulo una dificultad baja para evitar el abandono una vez pasado el ecuador. Incluido este curso!!!
+[^1]: por eso en el diseño de los contenidos, se intenta que el primer módulo tenga una dificultad baja, los módulos centrales tengan el peso principal, y el último módulo una dificultad baja para evitar el abandono una vez pasado el ecuador. Incluido este curso!!!
