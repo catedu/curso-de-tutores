@@ -1,13 +1,13 @@
 #1.2 Interactividad
 
-## ¿Activo o pasivo?
+##1.2.1.- ¿Activo o pasivo?
 Dos tipos de tutorización:
 
  * **Activa**: es la tutoría por definición. Se entiende que el tutor debe mantener una actitud proactiva, es decir, adelantarse a los posibles problemas o consultas, hacer un seguimiento continuo. Es el tutor el que debe iniciar continuamente la interacción.  
     
  * **Pasiva**: es la tutoría en la que el tutor “espera” la demanda del alumno. Es la tutoría a petición del alumno. Este tipo de tutorías solo serían recomendables con alumnos **autoformativos** es decir con una gran voluntad y decisión sobre su proceso de aprendizaje y que no desean el seguimiento continuo por parte de un tutor, o si el alumno cuenta con unos materiales didácticos de gran calidad. No sería recomendable en la mayoría de los casos puesto que el alumno puede sentirse solo o desmotivado y además la reacción ante cualquier incidencia siempre sería sobrevenida, el tutor no tendría capacidad de adelantarse a los posibles problemas. 
 
-##MENSAJES
+##1.2.2.-MENSAJES
 ###VENTAJAS
 La mensajería directa posee una serie de ventajas en e-learning como:
  * El contacto establecido es **personal** e individualizado.
@@ -20,7 +20,7 @@ Pero la mensajería directa también posee una serie de inconvenientes, de entre
  * El tiempo de respuesta por parte del alumno puede alargarse en función de la frecuencia con la que "entren" en el curso.
  * Si se usan muy frecuentemente, el alumno puede sentirse presionado.
 
-##FOROS
+##1.2.3.-FOROS
 
 El foro es una de las herramientas más utilizadas en los cursos. Los foros pueden tener diferentes funcionalidades:
 
@@ -38,7 +38,7 @@ El foro también puede ser utilizado para resolver dudas del estudiante por el p
  * Revisa lo que has escrito antes de mandar.
  * Escoge bien el "asunto" de la nueva intervención para que sepan qué se van a encontrar.
 
-##EMAIL
+##1.2.4.-EMAIL
 No es lo normal, pero en el caso de que un alumno no nos conteste por las anteriores vías, se puede acceder a su perfil y ver su email. Intentaremos dentro de nuestra actitud *activa* y si lo vemos conveniente, preguntar fuera de la plataforma (email) si existe algún problema de comunicación pues hemos intentado a través de la plataforma enviar varios mensajes y no hemos obtenido respuesta. 
 
 >Fuente Formación en Red del INTEF
