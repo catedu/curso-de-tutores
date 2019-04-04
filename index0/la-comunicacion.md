@@ -36,7 +36,7 @@ Cuando se escribe un correo, se participa en la mensajería, chat o se intervien
     * Realizar mensajes siempre **positivos**. Indicar lo que no se ha hecho bien, pero dando indicaciones de mejora o corrección para utilizar el refuerzo positivo.
 
 # ¡¡NUNCA ...!!
-Nunca se facilitarán datos personales de ningún alumno/a en foros o espacios abiertos o mensaje directoa otro alumno, para salvaguardar su privacidad.
+Nunca se facilitarán datos personales de ningún alumno/a en foros o espacios abiertos o mensaje directo a otro alumno, para salvaguardar su privacidad.
     
 
 >Fuente Formación en Red del INTEF
