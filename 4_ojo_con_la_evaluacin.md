@@ -16,7 +16,7 @@ Tanta es la diferencia con respecto a la presencial que existen casos donde el a
 
 El tutor tiene que ser asertivo, dejar claro lo que está mal y no bajar el listón de mínimos por la "pesadez" de estos alumnos. Poner claro el NO APTO y no cambiarlo a APTO hasta que se superen los mínimos.
 
-Afortunadamente, estos casos son muy pocos, y suelen presentarse cuando se acerca la fecha final. De repente un alumno empieza el curso y presenta las tareas con poco tiempo de unas a otras, lo que provoca una esfuerzo extra al tutor imprevisible.
+Afortunadamente, estos casos son muy pocos, y** suelen presentarse cuando se acerca la fecha final.** De repente un alumno empieza el curso y presenta las tareas con poco tiempo de unas a otras, lo que provoca una esfuerzo extra al tutor imprevisible.
 
 ![](img/keep-calm-and-carry-on-1441446793oby.jpg)
 
