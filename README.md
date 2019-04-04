@@ -21,7 +21,9 @@ En este curso se da una breve introducción sobre la labor del Tutor en Aularag�
    10. Tu evaluación y la nuestra
    
    ![Photo by rawpixel on Unsplash](/assets/tutoraularagon.jpg)
-   
+Photo by rawpixel on Unsplash
+
+Este curso te servirá, no lo dudes:
    
    ![](/assets/2018-06-21.png)
 
