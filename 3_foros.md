@@ -1,5 +1,5 @@
 
-# 3. Foros
+# 3.3. Foros
 
 * **Avisos**: En este foro sólo puede publicar el tutor. Aquí se publicarán las noticias de interés para todos los participantes del curso.
 

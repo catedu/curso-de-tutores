@@ -1,12 +1,12 @@
 
-# 7. Nominilla
+# 3.7. Nominilla
 
-## ANTES DE EMPEZAR EL CURSO
+## 3.7.1 ANTES DE EMPEZAR EL CURSO
 
 * Unos días después de la finalización de la inscripción se proceden a elaborar los cursos y publicar las listas definitivas de los grupos.
 * En esos días se envía a los candidatos a tutores la invitación a tutorizar por **email**, que tienen que contestar en un plazo máximo de 3 días naturales. Esto se hará adjuntando la **aceptación de la tutoría vía email.** De no recibirla en el plazo indicado se pasa al siguiente de la lista.
 
-## AL FINALIZAR EL CURSO
+## 3.7.2 AL FINALIZAR EL CURSO
 
 * Evaluación del curso: El asesor de aularagon -[aularagon@catedu.es](mailto:aularagon@catedu.es)- envía al tutor la lista de los alumnos (se considera acta de evaluación). El tutor deberá reenviar via mail dicha lista añadiendo el resultado de la evaluación: APTO, NO APTO o NO INICIA.
 * Se considera **NO INICIA** cuando un alumno **NO HA SUPERADO NINGÚN MÓDULO**.

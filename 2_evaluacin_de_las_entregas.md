@@ -1,5 +1,5 @@
 
-# 2. Evaluación de las entregas
+# 3.2. Evaluación de las entregas
 
 * El tutor decide si para pasar al módulo siguiente hay que tener los módulos anteriores aprobados.
 

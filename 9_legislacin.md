@@ -1,5 +1,5 @@
 
-# 9. Legislación
+# 3.9. Legislación
 
 ## Normativa
 
@@ -19,7 +19,7 @@
     * Funcionarios: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129) no hay que sobrepasar el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
     * Límite para no ser autónomo: 9.080€/año [[ver](http://www.elmundo.es/economia/2015/09/20/55f9aad3e2704e7b0f8b45ad.html)]
 
-* Lista de tutores
+####Lista de tutores
     * En [Catedu-Convocatorias](http://catedu.es/webcatedu/index.php/convocatorias)
 
 * Orden de [certificación y registro 18/5/15](http://www.educaragon.org/FILES/orden%20CERIFICACION%20Y%20REGISTRO.pdf)

@@ -1,4 +1,4 @@
-# 1. Obligaciones del tutor
+# 3.1. Obligaciones del tutor
 
 Y sin más dilación, resumimos sucintamente las tareas que debes llevar a cabo como tutor:
 

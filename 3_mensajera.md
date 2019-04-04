@@ -1,9 +1,9 @@
 
-# 3. Mensajería
+#2.3. Mensajería
 
 ![](img/image08.png)
 
-## 3.1.-Contestar mensajes
+##2.3.1.-Contestar mensajes
 
 La mensajería está diseñada para dialogar en formato chat, no admite formato de texto (negrita, cursiva, etc).
 
@@ -11,7 +11,7 @@ No soporta el envío de adjuntos, para lo cual excepcionalmente se pueden utiliz
 
 Cuando se entra en la mensajería, aparecen las conversaciones pendientes de leer. Pero para visualizar todas las conversaciones que hayas iniciado con tus alumnos, hay que seleccionar Conversaciones recientes o todas.
 
-## 3.2.- Enviar un mensaje de forma masiva
+##2.3.2.- Enviar un mensaje de forma masiva
 
 ![](img/image05.png)
 

@@ -1,5 +1,5 @@
 
-# 1. Entrar en la plataforma
+# 2.1. Entrar en la plataforma
 
 Si insertamos correctamente nuestro usuario y contraseña, sale arriba a la derecha **Usted se ha identificado como ...** y nos aparecerá una pantalla donde entraremos en Mis cursos.
 

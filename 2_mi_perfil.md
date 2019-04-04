@@ -1,5 +1,5 @@
 
-# 2. Mi perfil
+#2.2. Mi perfil
 
 Es conveniente editar nuestras preferencias como tutor. Para poder consultar los datos sobre nuestro perfil, entramos en el Menú de navegación en Mi perfil - Ver perfil. 
 

@@ -1,5 +1,5 @@
 
-# 4. Temporización
+# 3.4. Temporización
 
 El tutor procederá a dar las instrucciones de temporización a los alumnos para las entregas de las tareas acorde a los contenidos del curso. 
 
