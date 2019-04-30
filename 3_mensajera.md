@@ -31,4 +31,19 @@ Después, también abajo, solo hay que clicar al botón Seleccionar a todos y lu
 
 ![](img/image09.png)
 
+##2.3.3 Enviar una imagen
+La mensajería es tipo **chat** por lo tanto **no se puede incluir una imagen** pues está pensado para una conversación tipo textual
+
+>En las realimentaciones de las tareas SI que se puede añadir una imagen, hay un botón para ello
+
+Pero sí que podemos enviar una URL de una captura o imagen que queramos
+
+Por ejemplo esta conversación:
+
+Hola aquí en esta imagen https://pin.it/c7oyml6axalc3v tienes dónde está el botón de negrita
+
+Este vídeo vamos a ver cómo se ha creado esta URL:
+
+{% youtube %}https://youtu.be/Xk6TCoz3nUQ{% endyoutube%}
+
 
