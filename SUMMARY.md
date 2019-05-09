@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [Memes](memes.md)
 
 ## 1. Comunicación
 
@@ -37,5 +36,6 @@
 
 ## Aularagón
 
+* [Memes](memes.md)
 * [Créditos](crditos.md)
 
