@@ -1,11 +1,11 @@
 # 3.8. Certificados
 
-Intentamos, en un plazo no superior a 2 meses desde que finalizó el curso, envíar por correo postal los certificados, pero hay que tener en cuenta que lleva un tiempo no sólo la impresión y firma sino sobre todo el ensobrado, y no vamos _**sobrados**_ de recursos humanos, luego muchas veces el plazo de 2 meses no podemos respetarlo.
+Desde CATEDU se intenta que en un plazo no superior a 2 meses desde que finalizó el curso, se envíen por correo postal los certificados, pero hay cuestiones que dependen de terceros y muchas veces el plazo de 2 meses no se puede respetar.
 
 * No obstante todos los cursos de CATEDU a los pocos días de su finalización** ESTÁN REGISTRADOS EN EL NGIFP y en el PADOC** automáticamente por lo tanto NO ES NECESARIO el título en papel para justificar baremos dentro del Departamento de Educación del Gobierno de Aragón.
 * La dirección de envío:  será aquella que indicaron en la inscripción. En caso de omisión se enviará al centro de trabajo que indicaron en la inscripción.
 * Son válidos dos o más cursos online coincidentes en el tiempo con CATEDU [ver](http://soporte.catedu.es/kb/faq.php?id=2).
-* Y por supuesto: todos nuestros cursos son oficiales y válidos para baremos.
+* Y por supuesto: todos nuestros cursos son oficiales y válidos para méritos.
 
 **Puedes indicar esto como mensaje final a los alumnos que han acabado y superado tu curso**.
 
