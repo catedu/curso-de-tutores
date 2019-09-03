@@ -1,12 +1,12 @@
 # 3.8. Certificados
 
-## Tu certificado
+## Tu certificado como tutor
 
 **Tu certificado de tutorización oficial** se enviará a la dirección postal que indiques en la nominilla.
 
 También a comienzos del año natural siguiente recibirás un certificado en la misma dirección de la retención IRPF aplicada.
 
-##Los certificados de los alumnos
+##Los certificados de los participantes que han aprobado
 
 Desde CATEDU se intenta que en un plazo no superior a 2 meses desde que finalizó el curso, se envíen por correo postal los certificados, pero hay cuestiones que dependen de terceros y muchas veces el plazo de 2 meses no se puede respetar.
 
