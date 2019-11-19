@@ -14,10 +14,11 @@
 * Retención IRPF pág 16 del [Reforma reglamento IRPF 2015](http://www.agenciatributaria.es/static_files/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Informacion_institucional/Campanias/IRPF_permanente/Novedades_2015/Reforma_Reglamento_IRPF_RD_633_2015.pdf)
 
 * Límites:
-    * 2.400€/año por tutorizar
-    * Para el cómputo de horas máximo en materia de incompatibilidades, es la tercera parte de horas del curso. [Art 12](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf)
-    * Funcionarios: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129) no hay que sobrepasar el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado el 25% de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
-    * Límite para no ser autónomo: 9.080€/año [[ver](http://www.elmundo.es/economia/2015/09/20/55f9aad3e2704e7b0f8b45ad.html)]
+    * **2.400€/año** por tutorizar
+    * Para el cómputo de horas máximo en materia de incompatibilidades, es la **tercera parte** de horas del curso. [Art 12](http://aularagon.catedu.es/materialesaularagon2013/cursotut/cursotut3/2017-1-1-Resolucion_pagos_ponentes.pdf)
+    * Funcionarios: Según Art. 33 del R.D. 462/2002, 30/5 (BOE 129) no hay que sobrepasar el total de las remuneraciones anuales por colaboración en actividades de formación del profesorado el **25%** de las retribuciones [[ver](http://www.boe.es/buscar/doc.php?id=BOE-A-2002-10337)]
+    * Límite para no ser autónomo: **9.080€/año ** [[ver](http://www.elmundo.es/economia/2015/09/20/55f9aad3e2704e7b0f8b45ad.html)]
+    * El límite de alumnos a tutorizar es **40** ([Artículo 11 ORDEN ECD/579/2019](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VERDOC&BASE=BZHT&PIECE=BOLE&DOCS=1-27&DOCR=1&SEC=BUSQUEDA_FECHA&RNG=200&SEPARADOR=&SECC-C=BOA%20O%20DISPOSICIONES%20O%20PERSONAL%20O%20ACUERDOS%20O%20JUSTICIA%20O%20ANUNCIOS&PUBL-C=20190604&PUBL=&@PUBL-E=) por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado no universitario).
 
 ####Lista de tutores
     * En [Catedu-Convocatorias](http://catedu.es/webcatedu/index.php/convocatorias)
