@@ -3,8 +3,7 @@
 
 ## 3.7.1 ANTES DE EMPEZAR EL CURSO
 
-* Unos días después de la finalización de la inscripción se proceden a elaborar los cursos y publicar las listas definitivas de los grupos.
-* En esos días se envía a los candidatos a tutores la invitación a tutorizar por **email**, que tienen que contestar en un plazo máximo de 3 días naturales. Esto se hará adjuntando la **aceptación de la tutoría vía email.** De no recibirla en el plazo indicado se pasa al siguiente de la lista.
+Unos días después de la finalización de la inscripción se proceden a elaborar los cursos y publicar las listas definitivas de los grupos. En esos días se envía a los candidatos a tutores la invitación a tutorizar por **email**, que tienen que contestar en un plazo máximo de 3 días naturales. De no recibir contestación se pasa al siguiente de la lista.
 
 ## 3.7.2 AL FINALIZAR EL CURSO
 
