@@ -21,7 +21,7 @@
     * El límite de alumnos a tutorizar es **40** ([Artículo 11 ORDEN ECD/579/2019](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VERDOC&BASE=BZHT&PIECE=BOLE&DOCS=1-27&DOCR=1&SEC=BUSQUEDA_FECHA&RNG=200&SEPARADOR=&SECC-C=BOA%20O%20DISPOSICIONES%20O%20PERSONAL%20O%20ACUERDOS%20O%20JUSTICIA%20O%20ANUNCIOS&PUBL-C=20190604&PUBL=&@PUBL-E=) por la que se regula la convocatoria, reconocimiento, certificación y registro de las actividades de formación permanente del profesorado no universitario).
 
 ####Lista de tutores
-    * En [Catedu-Convocatorias](http://catedu.es/webcatedu/index.php/convocatorias)
 
+* En [Catedu-Convocatorias](http://catedu.es/webcatedu/index.php/convocatorias)
 * Orden de [certificación y registro 18/5/15](http://www.educaragon.org/FILES/orden%20CERIFICACION%20Y%20REGISTRO.pdf)
 * [Decreto de formación 18/9/18](http://www.educaragon.org/FILES/Decreto%20166%20(BOA%201-10-18)de%20Formaci%C3%B3n%20del%20Profesorado.pdf)
