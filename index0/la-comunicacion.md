@@ -33,10 +33,10 @@ Cuando se escribe un correo, se participa en la mensajería, chat o se intervien
     
 ##1.1.3.-En la comunicación asíncrona procura:
 
- * **Saludar y despedirse** siempre.
- * **Evitar** los mensajes demasiados concisos que den sensación de frialdad.
- * **Ser cercano** utilizando el "tuteo" pero sin utilizar expresiones demasiado coloquiales o familiares.
- * Realizar mensajes siempre **positivos**. Indicar lo que no se ha hecho bien, pero dando indicaciones de mejora o corrección para utilizar el refuerzo positivo.
+ * **Saludar y despedirse** siempre. 🙋‍♀️🙋‍♂️
+ * **Evitar** los mensajes demasiados concisos que den sensación de frialdad. 🥶
+ * **Ser cercano** utilizando el "tuteo" pero sin utilizar expresiones demasiado coloquiales o familiares. 😉
+ * Realizar mensajes siempre **positivos**. Indicar lo que no se ha hecho bien, pero dando indicaciones de mejora o corrección para utilizar el refuerzo positivo. 🥰
 
 # ¡¡NUNCA ...!!
 🤐 Nunca se facilitarán datos personales de ningún alumno/a en foros o espacios abiertos o mensaje directo a otro alumno, para salvaguardar su privacidad. 🤐
