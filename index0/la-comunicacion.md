@@ -18,7 +18,7 @@
 
  * **Flexibilidad**.  🤗 Debe tener la capacidad de adaptarse a las necesidades y circunstancias de cada alumno y de negociar ciertos aspectos del curso o de las actividades. A veces se entiende la flexibilidad como un “ceder” siempre para evitar conflictos. Pero ser flexible no significa dejarse llevar y ser condescendientes con todo y con todos. De ahí, que esta cualidad del tutor pueda verse como un arma de doble filo, en el sentido de que algún alumno pueda sentirse tratado injustamente con respecto a alguna concesión dada a alguno de sus compañeros. 
  
->success
+>**success**
 >**Truco** Utiliza emojis, aunque Moodle no lo tiene integrado, pulsa la teclas Windows y punto. Esto es válido para cualquier aplicación 😍
 
 ##1.1.2.-Sincrono o asíncrono
