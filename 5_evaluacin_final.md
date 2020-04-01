@@ -8,7 +8,7 @@ Esa misma hoja de cálculo la tienes que imprimir y firmar, junto con la **nomin
 
 Ten en cuenta que...
 
-* Hasta que un alumno** no tiene todos los módulos aptos, no supera el curso**. Es decir tiene que tener aprobados **TODAS** las actividades obligatorias del curso
+* Hasta que un alumno** no tiene todos los módulos aptos, no supera el curso**. Es decir tiene que tener aprobados **TODAS** las actividades obligatorias del curso.
 * No debemos tener en cuenta el valor ![](img/Total_del_curso.png), que al mezclar escalas de valoración APTO/NO APTO y porcentajes de 0-100 da un resultado erróneo. De hecho, desde que hemos añadido la barra de progreso ya ocultamos el libro de calificaciones a los alumnos.
 
 ## Otra información de interés
