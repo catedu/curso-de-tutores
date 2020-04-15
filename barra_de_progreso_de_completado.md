@@ -1,4 +1,4 @@
-# Barra de Progreso de Completado.
+# Barra de Progreso de Completado e insignias.
 
 El moodle incorpora una barra de "Progreso de Completado" que permite a los alumnos saber como están avanzando en el curso.
 
@@ -19,6 +19,6 @@ Para constar como APTO en la evaluación final, un estudiante tiene que haber su
 1. Créditos
 1. Valoración del curso.
 
-Un alumno que hiciera eso, constaría como APTO y recibiría el certificado pero no recibiría la Insignia asociada en el Moodle.
+Un alumno que hiciera eso, constaría como APTO y recibiría el certificado **pero no recibiría la Insignia asociada en el Moodle**.
 
 Esta vista general es muy útil para repasar la evaluación de las actividades azules de los alumnos no APTOS, puesto que podemos acceder a la entrega de un alumno en una actividad pulsando sobre el rectángulo azul correspondiente.
