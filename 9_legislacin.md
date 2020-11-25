@@ -22,6 +22,6 @@
 
 ####Lista de tutores
 
-* En [Catedu-Convocatorias](http://catedu.es/webcatedu/index.php/convocatorias)
-* Orden de [certificación y registro 18/5/15](http://www.educaragon.org/FILES/orden%20CERIFICACION%20Y%20REGISTRO.pdf)
-* [Decreto de formación 18/9/18](http://www.educaragon.org/FILES/Decreto%20166%20(BOA%201-10-18)de%20Formaci%C3%B3n%20del%20Profesorado.pdf)
+* En [Catedu-Convocatorias](https://web.catedu.es/webcatedu/index.php/convocatorias)
+* Orden de [certificación y registro 18/5/15](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=859076685454)
+* [Decreto de formación 18/9/18](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232)
