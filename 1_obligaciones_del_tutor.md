@@ -6,6 +6,11 @@ Y sin más dilación, resumimos sucintamente las tareas que debes llevar a cabo 
 1. **Evaluar las entregas APTO o NO APTO**,  y comentar las entregas correctamente.
 1. **Colaborar en la mejora del curso**. Cuanto mejor realizado está un curso, más ligera es su tutoría. Si lo necesitas, [pide ayuda](http://soporte.catedu.es/) para editar el curso.
 
+Si nuestra valoración como tutor es negativa:
+  * Dejarás de inmediato la tutorización.
+  * Cobrarás el periodo proporcional de lo que has tutorizado respecto al total de la duración del curso
+  * No recibirás certificado de tutor, al menos de que el curso ha acabado
+
 Esperamos que esta infografía te ayude a adivinar **¿cual es el mejor tutor?**
 
 ![](/assets/buentutor.png)
